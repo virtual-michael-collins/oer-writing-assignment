@@ -6,5 +6,13 @@
     "order": 0,
     "parent": null,
     "title": "OER Writing Assignment"
+  },
+  {
+    "id": "outline-item-9",
+    "indent": 1,
+    "location": "content/Thing.html",
+    "order": 0,
+    "parent": "outline-item-0",
+    "title": "Rubric"
   }
 ]
